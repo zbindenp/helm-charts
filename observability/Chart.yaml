@@ -9,7 +9,7 @@ version: 0.1.2
 dependencies:
   - name: opentelemetry-kube-stack
     alias: otel-stack
-    version: "0.20.0"
+    version: 0.20.3
     repository: "https://open-telemetry.github.io/opentelemetry-helm-charts"
   - name: jaeger
     version: 4.12.0
