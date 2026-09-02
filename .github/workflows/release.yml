@@ -37,5 +37,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           charts_dir: .
           skip_existing: true
-          mark_as_latest: false
+          mark_as_latest: true
           skip_gh_release: false
