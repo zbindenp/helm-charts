@@ -12,6 +12,6 @@ dependencies:
     version: "0.20.6"
     repository: "https://open-telemetry.github.io/opentelemetry-helm-charts"
   - name: jaeger
-    version: 4.12.0
+    version: 4.13.1
     repository: "https://jaegertracing.github.io/helm-charts"
     condition: jaeger.enabled
