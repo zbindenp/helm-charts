@@ -1,9 +1,9 @@
 dependencies:
 - name: opentelemetry-kube-stack
   repository: https://open-telemetry.github.io/opentelemetry-helm-charts
-  version: 0.20.6
+  version: 0.23.0
 - name: jaeger
   repository: https://jaegertracing.github.io/helm-charts
   version: 4.12.0
-digest: sha256:acb3d4b63390c6a06d2b714d408eec4050adf0c44cafde9e4c2b5e70a8620ae1
-generated: "2026-09-02T14:46:33.198009+02:00"
+digest: sha256:6e0a83222c8a0905b7cfe29c2d0b56877dba890df0005108726564fde859565d
+generated: "2026-09-24T20:24:04.51895764Z"
